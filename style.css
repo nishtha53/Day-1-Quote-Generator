@@ -68,3 +68,12 @@ footer{
     justify-content: center;
     align-items: center;
 }
+
+@media screen and (max-width: 992px) {
+    .container {
+       width: 100%;
+    }
+    #quote{
+        font-size: 15px;
+    }
+  }
